@@ -1,3 +1,3 @@
-this is an example repo made for learning purposes
-test text
-another test text
+This is a project made demonstrate things learned in html/css/javascript.
+
+Hiran P E
